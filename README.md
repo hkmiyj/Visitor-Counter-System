@@ -2,7 +2,7 @@
 <div align="center">
  <h1 align="center">Visitor-Counter-System
 </h1>
-  <h3 align="center"> During Covid-19 we need to monitor the person/people visiting someplace like shopping mall, conference room or office. This project can be used to count and display the number of visitors entering inside the room. This is a unidirectional counter which means it works in a single way. That means a counter will be incremented if a person enters the room. LCD displays this value which is placed outside the room. </h3>
+  <h3 align="center"> In the context of COVID-19, visitor counter systems can be used to help with compliance with social distancing and capacity limit guidelines. For example, a visitor counter system can be used to track the number of people entering a building and to ensure that the number of visitors does not exceed the maximum capacity. This can help to reduce the risk of transmission of COVID-19 by limiting the number of people in close proximity to one another.. This project can be used to count and display the number of visitors entering inside the room. This is a unidirectional counter which means it works in a single way. That means a counter will be incremented if a person enters the room. LCD displays this value which is placed outside the room. </h3>
 </div>
 
 ## Built With
