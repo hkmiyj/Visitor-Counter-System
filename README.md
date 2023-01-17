@@ -24,7 +24,7 @@
 ## Circuit Diagram
 <img width="1000" alt="schematicDiagram" src="screenshot/circuit_diagram.png">
 
-[Link To Tinkercad][https://www.tinkercad.com/things/hDiutcn8QrX]
+[To Tinkercad Project](https://www.tinkercad.com/things/hDiutcn8QrX)
 
 ## Demonstration 
 Demo 1 
